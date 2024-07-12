@@ -10,4 +10,6 @@ JavaScript7 - Com essa aplicação o usuário vai informar as 3 notas do aluno. 
 JavaScript8 - O usuário informará o salário atual e será mostrado na tela seu novo salário a partir do calcúlo de reajuste feito pela aplicação.<br>
 JavaScrpt9 - O usuário pode informar a temperatura em Farenheit e será mostrado na tela a temperatura em Celcius.<br>
 JavaScript10 - Pede ao usuário dois valores e mostra na tela qual o maior e o menor.<br>
-JavaScript11 - 
+JavaScript11 - Após o usuário digitar sua idade será mostrado na tela se ele está apto a votar ou não.<br>
+JavaScript12 - O usuário pode inserir 3 números e será mostrado na tela qual o de maior valor e qual o de menor valor. <br>
+JavaScript13 - 
