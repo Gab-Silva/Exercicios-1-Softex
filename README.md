@@ -9,5 +9,5 @@ JavaScript6 - Cálcula a idade que os pais tinham quando o usuário nasceu.<br>
 JavaScript7 - Com essa aplicação o usuário vai informar as 3 notas do aluno. A aplicação irá considerar as duas maiores notas para calcular a média do aluno e definir se ele está aprovado, fará prova final ou se foi reprovado. <br>
 JavaScript8 - O usuário informará o salário atual e será mostrado na tela seu novo salário a partir do calcúlo de reajuste feito pela aplicação.<br>
 JavaScrpt9 - O usuário pode informar a temperatura em Farenheit e será mostrado na tela a temperatura em Celcius.<br>
-JavaScript10 - Pede ao usuário dois valores e mostra na tela qual o maior e o menor.
+JavaScript10 - Pede ao usuário dois valores e mostra na tela qual o maior e o menor.<br>
 JavaScript11 - 
