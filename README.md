@@ -12,4 +12,5 @@ JavaScrpt9 - O usuário pode informar a temperatura em Farenheit e será mostrad
 JavaScript10 - Pede ao usuário dois valores e mostra na tela qual o maior e o menor.<br>
 JavaScript11 - Após o usuário digitar sua idade será mostrado na tela se ele está apto a votar ou não.<br>
 JavaScript12 - O usuário pode inserir 3 números e será mostrado na tela qual o de maior valor e qual o de menor valor. <br>
-JavaScript13 - 
+JavaScript13 - O usuário vai digitar um número e será informado se este é par ou impar.<br>
+JavaScript14 - O usuário irá informar a idade e será mostrado na tela se ele pode ou não doar.
